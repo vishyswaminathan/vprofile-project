@@ -1,8 +1,8 @@
 version: '3.8'
 services:
   vprodb:
-    build: .
-      context: ./Dockerfile-files/db
+    build:
+      context: ./Docker-files/db
     image: vishyswaminathan/vprofiledb
     container_name: vprodb
     ports:
@@ -30,8 +30,8 @@ services:
 
   
   vprodapp:
-    build: .
-      context: ./Dockerfile-files/app
+    build:
+      context: ./Docker-files/app
     image: vishyswaminathan/vprofileapp
     container_name: vproapp
     ports:
@@ -41,8 +41,8 @@ services:
     
 
   vproweb:
-    build: .
-      context: ./Dockerfile-files/web
+    build:
+      context: ./Docker-files/web
     image: vishyswaminathan/vprofileweb
     container_name: vproweb
     ports:
