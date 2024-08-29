@@ -1,5 +1,6 @@
 ![terraform_light](https://github.com/user-attachments/assets/053924c9-e30b-45d4-9ead-48fef6b6311b)
 
+NOTE: 
 
 Folder : exercise6
 
@@ -10,7 +11,7 @@ URL : https://github.com/vishyswaminathan/vprofile-project/tree/terraform/exerci
 TERRAFORM for AWS 
 =================
 
-NOTE: 
+
 
 
 Description: 
