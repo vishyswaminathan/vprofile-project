@@ -19,10 +19,17 @@ For this project I used Terraform to launch an AWS architecure  as well as  mult
 Services: 
 ---------
 S3 bucket
+
 VPC
+
 Subnets
+
 Internet Gateway
+
 Route Tables
+
 EC2 instances
+
 Key Pair
+
 Security groups
