@@ -2,6 +2,8 @@
 
 
 Folder : Exercise 6
+
+
 URL : https://github.com/vishyswaminathan/vprofile-project/tree/terraform/exercise6
 
 
